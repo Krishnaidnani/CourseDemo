@@ -1,9 +1,6 @@
-What are the key concepts you learnt from these courses
-You can choose one module from the list below:-
-1)Algorithm Analysis
-2)Divide and Conquer Algorithms
-3)Dynamic Programming
 
-Pawan Dubey
-Dynamic Programming
-Understanding the prolem and implementing a solution which is space and time efficient by structuring it into sub problems.
+Name: Krishna Idnani
+Module Chosen: Dynamic Programming
+learned how to solve complex problems efficiently by breaking them into smaller overlapping subproblems and storing their results to avoid repeated work. I
+understood the concept of optimal substructure and when a problem can be solved using dynamic programming. I also learned both memoization (top down) and tabulation (bottom up) approaches. 
+Overall, this module improved my ability to design optimized solutions and reduce time complexity.
